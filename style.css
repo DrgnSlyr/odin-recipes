@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    background-color: black;
+    color: white;
+}
+
+.recipes {
+    background-color: black;
+}
+
+#toast {
+    color:rgb(182, 101, 101);
+}
+
+#cobbler {
+    color: red;
+}
+
+#cake {
+    color: rgb(255, 247, 199);
+}
+
+.description {
+    background-color: rgb(53, 53, 53);
+}
